@@ -1,0 +1,2 @@
+include ':app', ':waitingdialog'
+rootProject.name='WaitingDialog'
